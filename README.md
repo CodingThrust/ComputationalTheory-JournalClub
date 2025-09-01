@@ -6,7 +6,8 @@ Weekly seminar on computational theory
 
 ## Rules
 - Propose a new topic through pull request
-- Topics: Algorithm and computational complexity theory, quantum computing, Machine learning, Game theory
+- Topics: Algorithm and computational complexity theory, quantum computing, Machine learning, Game theory. The content must be self-contained.
+- Form: Seminar talk or video watching
 - Language: English or Chinese
 
 ## Schedule (2025)
