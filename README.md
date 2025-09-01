@@ -1,7 +1,7 @@
 # ComputaionalTheory-JournalClub
 Weekly seminar on computational theory
 
-- Time: 7:00PM, Wendesday, Starting form 10/09/2025.
+- Time: 6:00PM, Wendesday, Starting form Sep 10, 2025.
 - Location: TBD, HKUST
 
 ## Rules
