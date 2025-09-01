@@ -9,7 +9,14 @@ Weekly seminar on computational theory
 - Topics: Algorithm and computational complexity theory, quantum computing, Machine learning, Game theory
 - Language: English or Chinese
 
-## Schedule
-- 10/09/2025:
+## Schedule (2025)
+- Sep 10:
+- Sep 17:
+- Sep 24:
+- Oct 8:
+- Oct 15:
+- Oct 22:
+- Oct 29:
+- ...
 
 ## How to make a pull request
