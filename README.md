@@ -1,4 +1,4 @@
-# ComputaionalTheory-JournalClub
+# Computational Theory Journal Club
 Weekly seminar on computational theory
 
 - Time: 6:00PM, Wendesday, Starting form Sep 10, 2025.
@@ -12,7 +12,7 @@ Weekly seminar on computational theory
 - Language: English or Chinese
 
 ## Schedule (2025)
-- Sep 10:
+- Sep 10: Proximity graphs for approximate nearest neighbor search: from theory to practice
 - Sep 17:
 - Sep 24:
 - Oct 8:
