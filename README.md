@@ -18,7 +18,7 @@ Weekly seminar exploring cutting-edge topics in computational theory, quantum co
 
 | Date | Topic | Presenter |
 |------|-------|-----------|
-| Sep 10 | [Proximity graphs for approximate nearest neighbor search: from theory to practice](20150910-ShangqiLu/) | Shang-Qi Lu |
+| Sep 10 | [Proximity graphs for approximate nearest neighbor search: from theory to practice](20250910-ShangqiLu/) | Shang-Qi Lu |
 | Sep 17 | [Introduction to Quantum Computing for Computer Scientists](20250917-JinguoLiu/) | Jin-Guo Liu |
 | Sep 24 | TBD | TBD |
 | Oct 8 | TBD | TBD |
