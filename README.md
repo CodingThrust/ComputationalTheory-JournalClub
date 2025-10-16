@@ -44,8 +44,5 @@ YYYYMMDD-PresenterName/
 └── materials/         # Additional resources
 ```
 
-## Past Topics
-- [20250917: Introduction to Quantum Computing for Computer Scientists](20250917-JinguoLiu/) - Jin-Guo Liu
-
 ## Contact
 For questions or suggestions, please open an issue or contact the organizers.
